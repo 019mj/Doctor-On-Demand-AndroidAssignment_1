@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DoctorOnDemand</string>
+    <string-array name="cities">
+        <item>Gaza</item>
+        <item>Rafah</item>
+        <item>Khan Yunis</item>
+        <item>Beit Lahia</item>
+        <item>Deir al Balah</item>
+        <item>Bani Suheila</item>
+        <item>Beit Hanoun</item>
+        <item>Abasan al-Kabira</item>
+        <item>Az Zawayda</item>
+        <item>Nuseirat Camp</item>
+        <item>Nazla</item>
+        <item>Al-Shati Camp</item>
+    </string-array>
+
+    <string-array name="specializations">
+        <item>Cardiologist</item>
+        <item>Dermatologist</item>
+        <item>Pediatrician</item>
+        <item>Orthopedic</item>
+        <item>Neurologist</item>
+        <item>Gynecologist</item>
+        <item>Radiologist</item>
+        <item>Oncologist</item>
+        <item>Psychiatrist</item>
+        <item>Ophthalmologist</item>
+        <item>ENT Specialist</item>
+        <item>General Surgeon</item>
+    </string-array>
+
+
+</resources>
